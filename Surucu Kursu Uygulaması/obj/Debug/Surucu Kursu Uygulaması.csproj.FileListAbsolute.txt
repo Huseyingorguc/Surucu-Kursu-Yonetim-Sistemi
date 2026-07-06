@@ -1,0 +1,26 @@
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu Kursu Uygulaması.csproj.AssemblyReference.cache
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.Form1.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.Properties.Resources.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu Kursu Uygulaması.csproj.GenerateResource.cache
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu Kursu Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\Surucu Kursu Uygulaması.exe.config
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\Surucu Kursu Uygulaması.exe
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\Surucu Kursu Uygulaması.pdb
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu Kursu Uygulaması.exe
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu Kursu Uygulaması.pdb
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\System.Data.SQLite.dll
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\bin\Debug\System.Data.SQLite.xml
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.OgrenciYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu K.2A03AC3B.Up2Date
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.EgitmenYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.DersYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.OgrenciDersYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.OdemeYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.SinavYonetimiForm.resources
+C:\Users\gorgu\source\repos\Surucu Kursu Uygulaması\Surucu Kursu Uygulaması\obj\Debug\Surucu_Kursu_Uygulaması.AracYonetimiForm.resources
