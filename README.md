@@ -36,7 +36,10 @@ Bu proje, bir sürücü kursunun günlük operasyonel süreçlerini (Araç, Ders
 
 \* \*\*ORM / Altyapı:\*\* Entity Framework 6 \& SQLite entegrasyon desteği (App.config altyapısı hazır)
 
-
+## 🔧 Veritabanı Kurulumu (.BAK Yöntemi)
+1. SQL Server Management Studio (SSMS) uygulamasını açın.
+2. **Databases** sekmesine sağ tıklayıp **Restore Database...** seçeneğini seçin.
+3. **Device** kısmından projedeki `Database/SurucuKursuDB.bak` dosyasını göstererek veritabanını tüm tablo ve procedure'leriyle birlikte geri yükleyin.
 
 \## 🔧 Nasıl Çalıştırılır?
 
