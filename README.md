@@ -23,35 +23,35 @@ Bu proje, bir sürücü kursunun günlük operasyonel süreçlerini (Araç, Ders
 
 ### 1. Giriş Paneli
 Sistem yöneticilerinin ve eğitmenlerin veritabanı kimlik doğrulaması ile yönetim paneline güvenli erişim sağladığı ekran.
-![Giriş Paneli](Screenshots/Giris_Paneli.png)
+![Giriş Paneli](Screenshots/GirisPaneli.png)
 
 ### 2. Öğrenci Yönetimi
 Kursa yeni başlayan kursiyerlerin tüm kişisel ve ehliyet sınıfı bilgilerinin kaydedildiği ve listelendiği alan.
-![Öğrenci Yönetimi](Screenshots/Ogrenci_Yonetimi.png)
+![Öğrenci Yönetimi](Screenshots/OgrenciYonetimi.png)
 
 ### 3. Ödeme Yönetimi
 Öğrencilerin kurs ücreti ödemelerini, kalan borç bakiyelerini ve makbuz kayıtlarını içeren finansal takip ekranı.
-![Ödeme Yönetimi](Screenshots/Odeme_Yonetimi.png)
+![Ödeme Yönetimi](Screenshots/OdemeYonetimi.png)
 
 ### 4. Öğrenci Ders Yönetimi
 Hangi öğrencinin, hangi tarihte, hangi eğitmen eşliğinde derse katılacağını gösteren bireysel planlama paneli.
-![Öğrenci Ders Yönetimi](Screenshots/Ogrenci_Ders_Yonetimi.png)
+![Öğrenci Ders Yönetimi](Screenshots/OgrenciDersYonetimi.png)
 
 ### 5. Ders Yönetimi
 Kurs takvimindeki genel teorik derslerin ve direksiyon eğitim saatlerinin tanımlandığı arayüz.
-![Ders Yönetimi](Screenshots/Ders_Yonetimi.png)
+![Ders Yönetimi](Screenshots/DersYonetimi.png)
 
 ### 6. Eğitmen Yönetimi
 Sürücü kursunda görev yapan direksiyon ve teorik ders eğitmenlerinin branş ve iletişim bilgilerinin yönetildiği alan.
-![Eğitmen Yönetimi](Screenshots/Egitmen_Yonetimi.png)
+![Eğitmen Yönetimi](Screenshots/EgitmenYonetimi.png)
 
 ### 7. Araç Yönetimi
 Eğitimlerde ve direksiyon sınavlarında kullanılan aktif araç filosunun marka, model, plaka ve müsaitlik durumu takibi.
-![Araç Yönetimi](Screenshots/Arac_Yonetimi.png)
+![Araç Yönetimi](Screenshots/AracYonetimi.png)
 
 ### 8. Sınav Yönetimi
 Kursiyerlerin sınav giriş bilgileri ile teorik ve pratik sınav sonuçlarının, başarı puanlarının girildiği panel.
-![Sınav Yönetimi](Screenshots/Sinav_Yonetimi.png)
+![Sınav Yönetimi](Screenshots/SinavYonetimi.png)
 
 ---
 
@@ -77,4 +77,4 @@ Kursiyerlerin sınav giriş bilgileri ile teorik ve pratik sınav sonuçlarını
 
 1. Bu depoyu bilgisayarınıza indirin (clone).
 2. `App.config` dosyasındaki `connectionString` alanını kendi yerel SQL Server (`Data Source=...`) bilgilerinize göre güncelleyin.
-3. Projeyi **Visual Studio** ile açarak `Start` butonuna basabilir veya `F5` tuşuyla uygulamayı derleyip çalıştırabilirsiniz.
+3. Proje dosyalarını **Visual Studio** ile açarak `Start` butonuna basabilir veya `F5` tuşuyla uygulamayı derleyip çalıştırabilirsiniz.
