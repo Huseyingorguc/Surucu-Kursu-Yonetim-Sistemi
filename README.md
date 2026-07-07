@@ -6,14 +6,13 @@ Bu proje, bir sürücü kursunun günlük operasyonel süreçlerini (Araç, Ders
 
 ## 🚀 Öne Çıkan Özellikler
 
-* **Öğrenci & Kayıt Yönetimi:** Kursa kayıt olan yeni kursiyerlerin kimlik, ehliyet sınıfı ve iletişim bilgileriyle sisteme eklenmesi, takibi.
+* **Öğrenci & Kayıt Yönetimi:** Kursa kayıt olan yeni kursiyerlerin kimlik, ehliyet sınıfı ve iletişim bilgileriyle sisteme eklenmesi ve takibi.
 * **Ödeme Yönetimi:** Kursiyerlerin taksit ve toplam ödeme dengelerinin finansal olarak izlenmesi.
 * **Araç Yönetimi:** Sürücü kursuna ait araçların eklenmesi, güncellenmesi, silinmesi ve hangi ders için tahsis edildiğinin yönetilmesi.
 * **Ders Yönetimi:** Teorik derslerin ve direksiyon (sürüş) derslerinin eğitmen eşleştirmeleriyle birlikte sisteme kaydedilmesi.
 * **Eğitmen Yönetimi:** Kurs bünyesindeki eğitmenlerin branş (Sürüş/Teorik) ve iletişim bilgileriyle takibi.
 * **Sınav Yönetimi:** Kursiyerlerin teorik ve direksiyon sınav tarihlerinin, aldıkları puanların ve başarı durumlarının merkezi takibi.
-* **Gelişmiş Veritabanı Mimarisi:** 
-  * Veri güvenliği ve performans için tüm CRUD işlemleri **Stored Procedure (Saklı Yordamlar)** üzerinden yürütülür.
+* **Gelişmiş Veritabanı Mimarisi:** * Veri güvenliği ve performans için tüm CRUD işlemleri **Stored Procedure (Saklı Yordamlar)** üzerinden yürütülür.
   * Araç ve eğitmen silme/güncelleme işlemleri arka planda otomatik olarak loglanır (`AracLog`, `EgitmenLog`).
   * Karmaşık veri birleştirmeleri (Araç-Ders-Eğitmen ilişkisi) SQL **View** yapıları kullanılarak tek tıkla listelenir.
 
@@ -77,4 +76,4 @@ Kursiyerlerin sınav giriş bilgileri ile teorik ve pratik sınav sonuçlarını
 
 1. Bu depoyu bilgisayarınıza indirin (clone).
 2. `App.config` dosyasındaki `connectionString` alanını kendi yerel SQL Server (`Data Source=...`) bilgilerinize göre güncelleyin.
-3. Projeyi **Visual Studio** ile açarak `Start` butonuna basın veya `F5` tuşunu kullanın.
+3. Projeyi **Visual Studio** ile açarak `Start` butonuna basarak veya `F5` tuşuyla uygulamayı derleyip çalıştırabilirsiniz.
